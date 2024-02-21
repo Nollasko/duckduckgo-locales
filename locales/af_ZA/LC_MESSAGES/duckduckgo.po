@@ -5785,7 +5785,7 @@ msgstr ""
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "Maak oop"
+msgstr "Open"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.

@@ -6231,7 +6231,7 @@ msgstr "Prošla godina"
 #. Indicates this is the percentage of wins for this team
 msgctxt "Sports module"
 msgid "Pct"
-msgstr "%pob"
+msgstr "Postotak"
 
 # smartling.placeholder_format=C
 #. Indicates that a match is in penalties stage, e.g. in soccer
@@ -8348,7 +8348,7 @@ msgstr "Simptomi"
 #. Abbreviation indicating this is the total score for a game
 msgctxt "Sports module"
 msgid "T"
-msgstr "tril."
+msgstr "Ukup."
 
 # smartling.placeholder_format=C
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T

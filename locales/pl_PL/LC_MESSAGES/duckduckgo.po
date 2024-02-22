@@ -4578,7 +4578,7 @@ msgstr "kurdyjski (północny)"
 #. Indicates this is the number of losses for this team
 msgctxt "Sports module"
 msgid "L"
-msgstr "L"
+msgstr "P"
 
 # smartling.placeholder_format=C
 #. Abbreviated version of the Win/loss record for a team's last 10 games, e.g. 10-5 means the team won 10 and lost 5. 'L' is an abbreviation for 'Last'.
@@ -5691,7 +5691,7 @@ msgstr "OT%1$s"
 #. In the context of a standings table for NHL (hockey), column title that abbreviates 'Overtime Losses' (the number of games lost during overtime of this team)
 msgctxt "Sports module"
 msgid "OTL"
-msgstr "Przegrane w dogrywce"
+msgstr "PPD"
 
 # smartling.placeholder_format=C
 #. The name of the Odia language
@@ -5806,7 +5806,7 @@ msgstr ""
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "Otwórz"
+msgstr "Otwarcie"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.
@@ -8347,7 +8347,7 @@ msgstr "Objawy"
 #. Abbreviation indicating this is the total score for a game
 msgctxt "Sports module"
 msgid "T"
-msgstr "bln"
+msgstr "Wynik"
 
 # smartling.placeholder_format=C
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T
@@ -9928,7 +9928,7 @@ msgstr "Pokazano niewłaściwe miejsce"
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "Od początku roku"
+msgstr "YTD"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

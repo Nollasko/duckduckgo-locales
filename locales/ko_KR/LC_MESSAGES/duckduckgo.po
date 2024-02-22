@@ -9715,7 +9715,7 @@ msgstr "잘못된 장소가 표시되었습니다."
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "연도별 누계"
+msgstr "연 누계"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

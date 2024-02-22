@@ -5785,7 +5785,7 @@ msgstr ""
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "Öppnar"
+msgstr "Öppningskurs"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.
@@ -8301,7 +8301,7 @@ msgstr "Symtom"
 #. Abbreviation indicating this is the total score for a game
 msgctxt "Sports module"
 msgid "T"
-msgstr "bn"
+msgstr "Tot"
 
 # smartling.placeholder_format=C
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T
@@ -9863,7 +9863,7 @@ msgstr "Fel plats visas"
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "Hittills i år"
+msgstr "I år"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

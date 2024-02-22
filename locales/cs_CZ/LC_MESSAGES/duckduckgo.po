@@ -5784,7 +5784,7 @@ msgstr "Jejda! Při překládání tohoto textu došlo k neočekávané chybě. 
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "Otevírací"
+msgstr "Při otevření"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.
@@ -9882,7 +9882,7 @@ msgstr "Zobrazuje se špatné místo"
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "Od začátku roku"
+msgstr "Za tento rok"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

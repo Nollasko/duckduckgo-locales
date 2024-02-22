@@ -8338,7 +8338,7 @@ msgstr "Symptómy"
 #. Abbreviation indicating this is the total score for a game
 msgctxt "Sports module"
 msgid "T"
-msgstr "bil."
+msgstr "CELK."
 
 # smartling.placeholder_format=C
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T
@@ -9920,7 +9920,7 @@ msgstr "Zobrazuje sa nesprávne miesto"
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "Od začiatku roka"
+msgstr "OD ZAČ. ROKA"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

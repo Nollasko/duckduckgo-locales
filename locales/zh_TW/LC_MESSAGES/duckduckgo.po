@@ -5673,7 +5673,7 @@ msgstr "哎呀！翻譯此文字內容時出現未預期的錯誤。請稍後再
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "市場開盤價"
+msgstr "開盤價"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.

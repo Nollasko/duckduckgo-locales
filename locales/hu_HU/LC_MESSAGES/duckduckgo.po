@@ -5861,7 +5861,7 @@ msgstr "Hoppá! Váratlan hiba történt a szöveg fordítása közben. Próbál
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "Megnyitás"
+msgstr "Nyitó ár"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.
@@ -8409,7 +8409,7 @@ msgstr "Tünetek"
 #. Abbreviation indicating this is the total score for a game
 msgctxt "Sports module"
 msgid "T"
-msgstr "B"
+msgstr "E"
 
 # smartling.placeholder_format=C
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T
@@ -9990,7 +9990,7 @@ msgstr "Rossz hely jelenik meg"
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "Évkezdettől"
+msgstr "Idei"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

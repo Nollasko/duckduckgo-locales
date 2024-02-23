@@ -5682,7 +5682,7 @@ msgstr "おっと！このテキストの翻訳中に予期しないエラーが
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "営業中"
+msgstr "オープン価格"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.
@@ -8167,7 +8167,7 @@ msgstr "症状"
 #. Abbreviation indicating this is the total score for a game
 msgctxt "Sports module"
 msgid "T"
-msgstr "兆"
+msgstr "総得点"
 
 # smartling.placeholder_format=C
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T

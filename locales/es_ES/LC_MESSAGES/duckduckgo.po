@@ -5854,7 +5854,7 @@ msgstr ""
 #. The price the markets opens at
 msgctxt "Stocks module"
 msgid "Open"
-msgstr "Abren"
+msgstr "Apertura"
 
 # smartling.placeholder_format=C
 #. Indicates a business is currently open.
@@ -9983,7 +9983,7 @@ msgstr "Se muestra el lugar equivocado"
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "Este año"
+msgstr "YTD"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

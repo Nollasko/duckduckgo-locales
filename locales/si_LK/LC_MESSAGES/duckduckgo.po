@@ -8337,7 +8337,7 @@ msgstr "ලක්ෂණ"
 #. Abbreviation indicating this is the total score for a game
 msgctxt "Sports module"
 msgid "T"
-msgstr "ට්‍රිලියන"
+msgstr "මුළු"
 
 # smartling.placeholder_format=C
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T

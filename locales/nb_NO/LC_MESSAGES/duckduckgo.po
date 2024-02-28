@@ -9915,7 +9915,7 @@ msgstr "Feil sted er vist"
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
 msgid "YTD"
-msgstr "Hittil i år"
+msgstr "i år"
 
 # smartling.placeholder_format=C
 #. https://duckduckgo.com/params under "Color Settings" under "Highlight: "

@@ -9778,6 +9778,11 @@ msgstr ""
 
 #. Text for a prompt suggestion for writing code with a basic loop structure in Python.
 msgctxt "Full sentence for writing code"
+msgid "Write a basic loop structure in Python"
+msgstr ""
+
+#. Text for a prompt suggestion for writing code with a basic loop structure in Python.
+msgctxt "Full sentence for writing code"
 msgid "Write a basic loop structure in Python for me."
 msgstr ""
 

@@ -8156,7 +8156,7 @@ msgstr "개인정보 보호, 간단합니다."
 # smartling.placeholder_format=C
 #. Refers to the DuckDuckGo search engine, on which your searches are always private. This is the shorter version, shown on smaller screens
 msgid "Private"
-msgstr "비공개 상태로 유지됩니다."
+msgstr "아무도 모르게"
 
 # smartling.placeholder_format=C
 msgid "Private Search"

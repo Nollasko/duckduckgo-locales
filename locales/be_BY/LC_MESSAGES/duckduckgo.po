@@ -8186,7 +8186,7 @@ msgstr "Дасягнуць прыватнасці стала прасцей."
 # smartling.placeholder_format=C
 #. Refers to the DuckDuckGo search engine, on which your searches are always private. This is the shorter version, shown on smaller screens
 msgid "Private"
-msgstr "прыватнае"
+msgstr "Прыватны"
 
 # smartling.placeholder_format=C
 msgid "Private Search"
